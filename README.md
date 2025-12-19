@@ -20,6 +20,12 @@ Quick usage (concept)
 2. Make sure cells are consistent in size and spacing.
 3. Run the converter to output a TTF file you can install and share.
 
+Sampe image used for test
+![input_image](https://github.com/user-attachments/assets/5d1569ad-09c6-4a18-8a38-b1ff286d4c7d)
+
+Final TTF file 
+
+
 How you can help
 - Share sample images and a short demo GIF (grid → install → type).
 - Add a Colab notebook for one-click demos.

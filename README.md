@@ -5,6 +5,8 @@ Turn hand-drawn or pixel-art glyph grids into a working TTF font — quick, simp
 Built on a polite dare from a great designer [exexexperiment](https://instagram.com/exexexperiment). 
 Have a wild idea for a creative tool? Slide into his DM — he'll guilt-trip me into making it.
 
+Open in collab [Google Collab](https://colab.research.google.com/drive/1onalWfxrGX55j438YsNZ1zBh2W-mX03E?usp=sharing)
+
 Overview
 - Draw each glyph in a square grid (one glyph per cell).
 - Export the grid image (edge-to-edge) and upload it to the converter.
